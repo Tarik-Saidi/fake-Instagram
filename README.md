@@ -9,6 +9,6 @@ I created a fake Instagram to improve my Skills.
 # Programming language
 To create fake Instagram .I use Many language .
 
--HTML
--CSS
--JAVAScript
+- HTML
+- CSS
+- JAVAScript
